@@ -1,4 +1,4 @@
-# WoodWorking-DiceTray
+# Dice Tray
 
 Dice tray for role playing and boardgames.
 
